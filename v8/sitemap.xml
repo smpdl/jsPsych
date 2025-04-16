@@ -401,11 +401,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.jspsych.org/v8/plugins/tags/</loc>
-         <lastmod>2025-04-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://www.jspsych.org/v8/plugins/video-button-response/</loc>
          <lastmod>2025-04-16</lastmod>
          <changefreq>daily</changefreq>
@@ -502,6 +497,11 @@
     </url>
     <url>
          <loc>https://www.jspsych.org/v8/tutorials/rt-task/</loc>
+         <lastmod>2025-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.jspsych.org/v8/plugins/tags/</loc>
          <lastmod>2025-04-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
