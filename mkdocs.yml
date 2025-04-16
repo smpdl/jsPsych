@@ -1,6 +1,7 @@
 site_name: jsPsych
 plugins: 
-  - tags
+  - tags:
+      tags_file: plugins/tags.md
 theme:
   name: 'material'
   language: 'en'
