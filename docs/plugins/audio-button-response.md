@@ -1,3 +1,9 @@
+---
+tags:
+  - Audio
+  - Button
+---
+
 # audio-button-response
 
 Current version: 2.0.2. [See version history](https://github.com/jspsych/jsPsych/blob/main/packages/plugin-audio-button-response/CHANGELOG.md).

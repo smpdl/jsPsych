@@ -1,4 +1,6 @@
 site_name: jsPsych
+plugins: 
+  - tags
 theme:
   name: 'material'
   language: 'en'
@@ -74,6 +76,7 @@ nav:
   - 'jsPsych.utils': 'reference/jspsych-utils.md'
   - 'jsPsych.pluginAPI': 'reference/jspsych-pluginAPI.md'
 - Plugins:
+  - 'Tag Index': 'plugins/tags.md'
   - 'List of Plugins': 'plugins/list-of-plugins.md'
   - 'animation': 'plugins/animation.md'
   - 'audio-button-response': 'plugins/audio-button-response.md'

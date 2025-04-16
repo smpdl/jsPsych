@@ -1,3 +1,10 @@
+---
+tags:
+  - Audio
+  - Keyboard
+---
+
+
 # audio-keyboard-response
 
 Current version: 2.0.0. [See version history](https://github.com/jspsych/jsPsych/blob/main/packages/plugin-audio-keyboard-response/CHANGELOG.md).
